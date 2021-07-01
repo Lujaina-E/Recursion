@@ -1,3 +1,2 @@
 # Recursion
-
-An assignment completed in Computer Science 30 to provide a foundational explanation for how recursion works using visuals via Processing. 
+Code explains how recursion works in a deconstructed way for easier comprehension. Program draws a fractal shape of depth n recursively. 
